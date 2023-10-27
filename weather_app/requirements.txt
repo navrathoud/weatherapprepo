@@ -6,3 +6,4 @@ Flask
 requests
 gunicorn
 Werkzeug
+pip=23.3.1 
